@@ -1,3 +1,5 @@
+The purpose of this project was to learn the basics of HTML & CSS.
+
 Base web-template used:
 
 	Spectral by HTML5 UP
@@ -5,7 +7,8 @@ Base web-template used:
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 	
 	Credits:
-	
+		Pictures:
+			https://unsplash.com/
 		Icons:
 			Font Awesome (fontawesome.io)
 	
