@@ -1,3 +1,6 @@
+
+---
+
 # Aurora Defense Solutions - Website Project
 
 [Aurora Defense Solutions](https://eelude.github.io/AuroraDefenseSolutions/) is a fictional military defense contractor website designed to showcase defense technologies and services. The purpose of this web project was to learn the basics of HTML & CSS while creating a professional, responsive website.
@@ -29,3 +32,5 @@ Explore the site live at the following link: [Aurora Defense Solutions - Demo](h
   - **jQuery** - [jQuery](https://jquery.com)
   - **Scrollex** - [Scrollex on GitHub](https://github.com/ajlkn/jquery.scrollex)
   - **Responsive Tools** - [Responsive Tools on GitHub](https://github.com/ajlkn/responsive-tools)
+
+---
