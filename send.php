@@ -11,7 +11,7 @@ if (!empty($_POST)) {
         $subjecti = strip_tags($subject);
         $message = strip_tags($message);
 
-        $toemail = 'eemil.juhani@gmail.com';
+        $toemail = 'auroradefensesolutions@gmail.com';
         $tosubject =  "Contact from Contact Form";
         $headers = ['From' => $email, 'Reply-To' => $email, 'Content-type' => 'text/html; charset=utf-8'];
         $bodyParagraphs = ["Name: {$name}<br>", "Email: {$email}<br>", "Subject: {$subject}<br><br>", "Message:", $message];
