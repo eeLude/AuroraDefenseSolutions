@@ -29,4 +29,3 @@ Explore the site live at the following link: [Aurora Defense Solutions - Demo](h
   - **jQuery** - [jQuery](https://jquery.com)
   - **Scrollex** - [Scrollex on GitHub](https://github.com/ajlkn/jquery.scrollex)
   - **Responsive Tools** - [Responsive Tools on GitHub](https://github.com/ajlkn/responsive-tools)
-```
